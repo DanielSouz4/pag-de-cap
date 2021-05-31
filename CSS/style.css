@@ -94,3 +94,26 @@ footer{
 .description h3{
     font-size: 24px;
 }
+
+@media screen and (max-width: 500px) {
+
+    .formContainer{
+        max-width: 230px;
+        background-color: #FFFFFFBB;
+        padding: 20px;
+        float: none;
+        margin: auto;
+    }
+
+    .description{
+        text-align: justify;
+        max-width: 80%;
+        margin-left: 0;
+    }
+    
+    .description h3{
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+}
