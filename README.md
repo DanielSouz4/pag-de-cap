@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     ♻️ <a href="#" alt="Página de Captura"> Ecoleta </a>
+      <a href="#" alt="Página de Captura"> Página de Captura" </a>
 </h1>
 
 <h3 align="center">
@@ -19,7 +19,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
-   * [Link para testar o projeto](#-como-executar-o-projeto)
+   * [Link para testar o projeto](#-Link-para-testar-o-projeto)
    * [Tecnologias](#-tecnologias)
 
 <!--te-->
@@ -27,7 +27,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-♻️ Página de captura - é basicamente uma página criada com a intenção de capturar clientes que deixam seu e-mail nela, em troca de alguma recompensa digital. Essa é a melhor e mais conhecida estratégia de quem trabalha no marketing digital.
+Página de captura - é basicamente uma página criada com a intenção de capturar clientes que deixam seu e-mail nela, em troca de alguma recompensa digital. Essa é a melhor e mais conhecida estratégia de quem trabalha no marketing digital.
 
 ---
 
@@ -47,6 +47,6 @@ Clique aqui!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[HTML]**
--   **[CSS]**
--   **[MailChimp]**
+-   **HTML**
+-   **CSS**
+-   **Mailchimp (plataformas de envio de email marketing)**
