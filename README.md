@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-      <a href="#" alt="Página de Captura"> Página de Captura" </a>
+      <a href="#" alt="Página de Captura"> Página de Captura </a>
 </h1>
 
 <h3 align="center">
-    🌱 Uma simples página para capturar clientes. 💚
+    🌱 Uma simples página para capturar clientes.
 </h3>
 
 </p>
@@ -16,25 +16,22 @@
 
 Tabela de conteúdos
 =================
-<!--ts-->
+
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Layout](#-layout)
    * [Link para testar o projeto](#-Link-para-testar-o-projeto)
    * [Tecnologias](#-tecnologias)
-
-<!--te-->
 
 
 ## 💻 Sobre o projeto
 
 Página de captura - é basicamente uma página criada com a intenção de capturar clientes que deixam seu e-mail nela, em troca de alguma recompensa digital. Essa é a melhor e mais conhecida estratégia de quem trabalha no marketing digital.
 
----
 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Página de Captura" src="./images/Untitled.png" width="400px">
+  <img alt="Página de Captura" src="./images/Untitled.png" width="600px">
 </p>
 
 ## 🚀 Link para testar o projeto
