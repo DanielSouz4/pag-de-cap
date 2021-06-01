@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-      <a href="#" alt="Página de Captura"> Página de Captura" </a>
+      <a href="#" alt="Página de Captura"> Página de Captura </a>
 </h1>
 
 <h3 align="center">
