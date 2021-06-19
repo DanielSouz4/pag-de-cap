@@ -35,6 +35,6 @@ Clique aqui!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   *HTML*
--   *CSS*
--   *Mailchimp (plataformas de envio de email marketing)*
+-   HTML
+-   CSS
+-   Mailchimp (plataformas de envio de email marketing)
