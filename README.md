@@ -14,15 +14,6 @@
 	🚧   Concluído 🚀 🚧
 </h4>
 
-Tabela de conteúdos
-=================
-
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Layout](#-layout)
-   * [Link para testar o projeto](#-Link-para-testar-o-projeto)
-   * [Tecnologias](#-tecnologias)
-
-
 ## 💻 Sobre o projeto
 
 Página de captura - é basicamente uma página criada com a intenção de capturar clientes que deixam seu e-mail nela, em troca de alguma recompensa digital. Essa é a melhor e mais conhecida estratégia de quem trabalha no marketing digital.
@@ -44,6 +35,6 @@ Clique aqui!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **HTML**
--   **CSS**
--   **Mailchimp (plataformas de envio de email marketing)**
+-   *HTML*
+-   *CSS*
+-   *Mailchimp (plataformas de envio de email marketing)*
