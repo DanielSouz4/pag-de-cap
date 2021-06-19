@@ -22,7 +22,7 @@ Página de captura - é basicamente uma página criada com a intenção de captu
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Página de Captura" src="./images/Animação.git">
+  <img alt="Página de Captura" src="./images/Animação.gif">
 </p>
 
 ## 🚀 Link para testar o projeto
